@@ -1,5 +1,7 @@
 # IPR-Timing-Estimator
 
+![Screenshot](/images/Screenshot.png)
+
 This is a simple Excel spreadsheet with formulas to estimate certain deadlines in *inter partes review* (IPR) actions before the United States Patent and Trademark Office (USPTO). 
 
 It was created by Andrew E. Russell at Shaw Keller LLP in Wilmington, Delaware. **Please see the [IP/DE Blog](https://ipde.com) for more information.**
